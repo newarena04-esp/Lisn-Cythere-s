@@ -1,2 +1,2 @@
-# Lisn-Cythere-s
+# Lisna-Cytherea-s
 Aplikasi remote mobil TYO RC
